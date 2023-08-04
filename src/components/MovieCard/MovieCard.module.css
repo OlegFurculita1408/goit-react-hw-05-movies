@@ -1,0 +1,17 @@
+.cardContainer {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-top: 25px;
+}
+  
+.images {
+  max-width: 280px;
+}
+
+.textWraper {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 40px;
+}

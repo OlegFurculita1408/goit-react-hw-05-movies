@@ -1,0 +1,23 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    gap: 9px;
+}
+
+.itemList{
+    padding-left: 8px;
+}
+
+.listLink {
+    text-decoration: none;
+    color: #000000;
+
+}
+.listLink:hover,
+.listLink:focus {
+    color: #160ac0;
+    font-weight: bold;
+}
+
+

@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+
+.input {
+  margin-right: 10px;
+  width: 250px;
+}
+
+.buttonSubmit {
+  background-color: white;
+  transition: background-color 250ms ease-out;
+  border-radius: 2px;
+}
+.buttonSubmit:hover {
+    background-color: black;
+    color: white;
+}
+
